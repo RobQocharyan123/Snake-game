@@ -1,8 +1,3 @@
-Sure! Here's the complete, human-friendly `README.md` text you can copy and paste directly:
-
----
-
-````markdown
 # 🐍 Snake Game – Frontend Engineer Challenge
 
 This is a classic Snake game built from scratch using JavaScript, HTML, and CSS. It was created as part of the Frontend Software Engineer Challenge for Hexens.
@@ -17,6 +12,7 @@ This is a classic Snake game built from scratch using JavaScript, HTML, and CSS.
 git clone https://github.com/RobQocharyan123/Snake-game
 cd snake-game
 ```
+
 ````
 
 2. Open `index.html` in your browser.
@@ -66,3 +62,4 @@ snake-game/
 
 Robert Qocharyan
 [GitHub](https://github.com/RobQocharyan123/Snake-game
+````
