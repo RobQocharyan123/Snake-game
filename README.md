@@ -14,7 +14,7 @@ This is a classic Snake game built from scratch using JavaScript, HTML, and CSS.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/RobQocharyan123/Snake-game
 cd snake-game
 ```
 ````
@@ -65,17 +65,4 @@ snake-game/
 ## 🙋‍♂️ Author
 
 Robert Qocharyan
-[GitHub](https://github.com/your-username)
-
----
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
-```
-
----
-
-Just replace `your-username` with your GitHub username, and you're good to go. Let me know if you want me to review the actual repo!
-```
+[GitHub](https://github.com/RobQocharyan123/Snake-game
